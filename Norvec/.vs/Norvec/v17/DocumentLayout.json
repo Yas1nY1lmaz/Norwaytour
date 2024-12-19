@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\VTYSProje\\Norvec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBEBC60-234F-40F5-9F33-3B013AF5FC0A}|Norvec\\Norvec.csproj|c:\\users\\hp\\desktop\\vtysproje\\norvec\\norvec\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBEBC60-234F-40F5-9F33-3B013AF5FC0A}|Norvec\\Norvec.csproj|solutionrelative:norvec\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBEBC60-234F-40F5-9F33-3B013AF5FC0A}|Norvec\\Norvec.csproj|C:\\Users\\HP\\Desktop\\VTYSProje\\Norvec\\norvec\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3DBEBC60-234F-40F5-9F33-3B013AF5FC0A}|Norvec\\Norvec.csproj|solutionrelative:norvec\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBEBC60-234F-40F5-9F33-3B013AF5FC0A}|Norvec\\Norvec.csproj|C:\\Users\\HP\\Desktop\\VTYSProje\\Norvec\\norvec\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBEBC60-234F-40F5-9F33-3B013AF5FC0A}|Norvec\\Norvec.csproj|solutionrelative:norvec\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBEBC60-234F-40F5-9F33-3B013AF5FC0A}|Norvec\\Norvec.csproj|C:\\Users\\HP\\Desktop\\VTYSProje\\Norvec\\norvec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBEBC60-234F-40F5-9F33-3B013AF5FC0A}|Norvec\\Norvec.csproj|solutionrelative:norvec\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VTYSProje\\Norvec\\Norvec\\Form1.cs",
+              "RelativeDocumentMoniker": "Norvec\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VTYSProje\\Norvec\\Norvec\\Form1.cs [Design]",
+              "RelativeToolTip": "Norvec\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:55:05.916Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VTYSProje\\Norvec\\Norvec\\Program.cs",
+              "RelativeDocumentMoniker": "Norvec\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VTYSProje\\Norvec\\Norvec\\Program.cs",
+              "RelativeToolTip": "Norvec\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:54:47.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VTYSProje\\Norvec\\Norvec\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Norvec\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VTYSProje\\Norvec\\Norvec\\Form1.Designer.cs",
+              "RelativeToolTip": "Norvec\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:54:45.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\VTYSProje\\Norvec\\Norvec\\Form1.cs",
+              "RelativeDocumentMoniker": "Norvec\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\VTYSProje\\Norvec\\Norvec\\Form1.cs",
+              "RelativeToolTip": "Norvec\\Form1.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAADwv9IAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:54:39.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
